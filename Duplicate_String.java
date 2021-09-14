@@ -3,7 +3,7 @@ package java_assignment3;
 public class Duplicate_String {
 	public static void main(String argu[]) {
 
-		  String str = "ramsai";
+		  String str = "rohitsai";
 		  int cnt = 0;
 		  char[] inp = str.toCharArray();
 		  System.out.println("Duplicate Characters are:");
