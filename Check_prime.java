@@ -19,7 +19,7 @@ public class Check_prime {
 		}  
 		 public static void main(String args[]){    
 		  checkPrime(5);  
-		  checkPrime(3);  
+		  checkPrime(43);  
 		  checkPrime(17);  
 		  checkPrime(20);  
 		}    
