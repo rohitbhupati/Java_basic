@@ -18,7 +18,7 @@ public class Check_prime {
 		  }//end of else  
 		}  
 		 public static void main(String args[]){    
-		  checkPrime(1);  
+		  checkPrime(5);  
 		  checkPrime(3);  
 		  checkPrime(17);  
 		  checkPrime(20);  
